@@ -12,6 +12,6 @@ Feel free to have a look.
 
 
 
-![App Screenshot](./output.png)
+![Website Screenshot](./Assets/website.png)
 
 > Website is only Desktop screen compatible. Will make it responsive in coming days. 
